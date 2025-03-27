@@ -1,9 +1,9 @@
 <div align="center" width="50">
     <img alt="juniord111" src="./assets/oh hi there.png" width="300"/>
 </div>
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Jhojan Arango</h1>
+<h1 align="center">Hola 👋, I'm Jhojan Arango</h1>
 
-![GitHub followers](https://img.shields.io/github/followers/juniord111?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/juniord111?style=social) ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=juniord111.repoName) <img src="https://komarev.com/ghpvc/?username=juniord111" alt="juniord111" />
+![GitHub followers](https://img.shields.io/github/followers/juniord111?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/juniord111?style=social) <img src="https://komarev.com/ghpvc/?username=juniord111" alt="juniord111" />
 
 ## About Me :
 
