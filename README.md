@@ -31,7 +31,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juniord111&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![juniord111 GitHub stats](https://github-readme-stats.vercel.app/api?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats)
+(https://git.io/streak-stats) [![juniord111 GitHub stats](https://github-readme-stats.vercel.app/api?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats)
 
 <br>
 
