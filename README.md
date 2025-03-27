@@ -1,6 +1,4 @@
-<div align="center" width="50">
-    <img alt="juniord111" src="./assets/oh hi there.png" width="300"/>
-</div>
+
 <h1 align="center">Hola 👋, I'm Jhojan Arango</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/juniord111?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/juniord111?style=social) <img src="https://komarev.com/ghpvc/?username=juniord111" alt="juniord111" />
@@ -34,7 +32,7 @@
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juniord111&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![juniord111 GitHub stats](https://github-readme-stats.vercel.app/api?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats)
+(https://git.io/streak-stats) [![juniord111 GitHub stats](https://github-readme-stats.vercel.app/api?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats)
 
 <br>
 
