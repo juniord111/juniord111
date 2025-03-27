@@ -1,12 +1,11 @@
+<h1 align="center">Hola 👋 , I'm Jhojan Arango</h1>
 
-<h1 align="center">Hola 👋, I'm Jhojan Arango</h1>
-
-![GitHub followers](https://img.shields.io/github/followers/juniord111?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/juniord111?style=social) <img src="https://komarev.com/ghpvc/?username=juniord111" alt="juniord111" />
+![GitHub followers](https://img.shields.io/github/followers/juniord111?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/juniord111?style=social)  <img src="https://komarev.com/ghpvc/?username=juniord111" alt="juniord111" />
 
 ## About Me :
 
 - 🏢 I am currently working as a **Desarrollador web frontend**
-- 🎓 Passionate about web development and technology
+- 🎓 Learned programming **autodidactically** through Udemy courses
 - 🏡 Lives in **Colombia**
 - ⚡ **Fun Facts** : 🍕 🎥 🚀 🎮
 
@@ -16,7 +15,7 @@
 
 <br>
 
-[![@juniord111](https://img.icons8.com/fluency/48/000000/instagram-new.png "@juniord111")](https://www.instagram.com/juniord111/) [![@juniord111](https://img.icons8.com/fluency/48/000000/linkedin.png "@juniord111")](https://www.linkedin.com/in/juniord111/) [![@juniord111](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@juniord111")](https://twitter.com/juniord111)
+[![@jhojan_nnnn](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jhojan_nnnn")](https://www.instagram.com/jhojan_nnnn) [![@david-rengifo](https://img.icons8.com/fluency/48/000000/linkedin.png "@david-rengifo")](https://www.linkedin.com/in/david-rengifo-34b785315/) [![@DavidRe03748487](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@DavidRe03748487")](https://x.com/DavidRe03748487) [![@dr5554160](https://img.icons8.com/fluency/48/000000/apple-mail.png "dr5554160@gmail.com")](mailto:dr5554160@gmail.com)
 
 <br>
 
@@ -32,7 +31,7 @@
 
 <br>
 
-(https://git.io/streak-stats) [![juniord111 GitHub stats](https://github-readme-stats.vercel.app/api?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=juniord111&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![juniord111 GitHub stats](https://github-readme-stats.vercel.app/api?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats)
 
 <br>
 
