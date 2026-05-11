@@ -1,50 +1,115 @@
-<h1 align="center">Hola 👋 , I'm Jhojan Arango</h1>
+<h1 align="center">Hi 👋, I'm David Rengifo</h1>
+<h3 align="center">Frontend Web Developer from Colombia 🇨🇴</h3>
 
-![GitHub followers](https://img.shields.io/github/followers/juniord111?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/juniord111?style=social)  <img src="https://komarev.com/ghpvc/?username=juniord111" alt="juniord111" />
+<p align="center">
+  Passionate about building modern, responsive, and user-friendly web applications.
+</p>
 
-## About Me :
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juniord111&label=Profile%20views&color=0e75b6&style=flat" alt="juniord111" />
+  <img src="https://img.shields.io/github/followers/juniord111?style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/juniord111?style=social" alt="stars" />
+</p>
 
-- 🏢 I am currently working as a **Desarrollador web frontend**
-- 🎓 Learned programming **autodidactically** through Udemy courses
-- 🏡 Lives in **Colombia**
-- ⚡ **Fun Facts** : 🍕 🎥 🚀 🎮
+---
 
-<br>
+## 🚀 About Me
 
-## Connect with me ☕ :
+- 💻 Frontend Web Developer focused on creating attractive and functional interfaces
+- 📚 Self-taught programmer learning through real projects and online courses
+- 🌱 Currently improving my skills in:
+  - Vue.js
+  - Node.js & Express
+  - Java
+  - APIs & Databases
+- 🎯 Interested in full-stack development and scalable web applications
+- 🇨🇴 Based in Colombia
+- ⚡ Fun fact: I enjoy coding while listening to music 🎧
 
-<br>
+---
 
-[![@jhojan_nnnn](https://img.icons8.com/fluency/48/000000/instagram-new.png "@jhojan_nnnn")](https://www.instagram.com/jhojan_nnnn) [![@david-rengifo](https://img.icons8.com/fluency/48/000000/linkedin.png "@david-rengifo")](https://www.linkedin.com/in/david-rengifo-34b785315/) [![@DavidRe03748487](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@DavidRe03748487")](https://x.com/DavidRe03748487) [![@dr5554160](https://img.icons8.com/fluency/48/000000/apple-mail.png "dr5554160@gmail.com")](mailto:dr5554160@gmail.com)
+## 🌐 Connect With Me
 
-<br>
+<p align="left">
+  <a href="https://www.instagram.com/jhojan_nnnn" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" />
+  </a>
 
-## What I am Good at 🧑‍💻 :
+  <a href="https://www.linkedin.com/in/david-rengifo-34b785315/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" />
+  </a>
 
-<br>
+  <a href="https://x.com/DavidRe03748487" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/twitterx.png" />
+  </a>
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/48/000000/git.png"/> <img src="https://img.icons8.com/fluency/48/000000/github.png"/>
+  <a href="mailto:dr5554160@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/apple-mail.png" />
+  </a>
+</p>
 
-<br>
+---
 
-## GitHub Stats 📈 :
+## 🛠️ Tech Stack
 
-<br>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,sass,js,vue" />
+</p>
 
- [![juniord111 GitHub stats](https://github-readme-stats.vercel.app/api?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniord111&theme=algolia)](https://github.com/juniord111/github-readme-stats)
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<br>
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-## GitHub Trophies 🏆 :
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-<br>
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=juniord111)](https://github.com/juniord111/github-profile-trophy)
+## 📈 GitHub Stats
 
-<br>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juniord111&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juniord111&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-## Activity Graph 📊 :
+---
 
-<br>
+## 🔥 GitHub Streak
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=juniord111&theme=react-dark)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=juniord111&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juniord111&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juniord111&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## ✨ Quote
+
+> "Consistency beats talent when talent doesn’t work hard."
+
+---
